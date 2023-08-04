@@ -1,0 +1,20 @@
+#raiz{
+    text-align: center;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+input{
+    text-align: center;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: large;
+}
+button{
+    width: 120px;
+    height: 35px;
+    border-radius: 10px;
+}
