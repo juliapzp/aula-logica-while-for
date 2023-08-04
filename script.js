@@ -27,6 +27,7 @@ function primos(){
         if divisores == 2{
             qtd ++;
         }
+        i ++;
     }
     alert(qtd);
 }
